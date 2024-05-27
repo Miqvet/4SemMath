@@ -1,0 +1,331 @@
+<mxfile host="app.diagrams.net" modified="2024-05-14T11:24:43.064Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="6KVXHZfJxSgHU3_ZOBKP" version="24.3.1" type="device">
+  <diagram name="Страница — 1" id="jQywgSG6DH7RQjWW9mtv">
+    <mxGraphModel dx="6120" dy="1238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="feCrvd7pG5GOB3gKW0TG-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="feCrvd7pG5GOB3gKW0TG-101" target="feCrvd7pG5GOB3gKW0TG-103" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="feCrvd7pG5GOB3gKW0TG-101" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Начало&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-4610" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="feCrvd7pG5GOB3gKW0TG-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="feCrvd7pG5GOB3gKW0TG-103" target="feCrvd7pG5GOB3gKW0TG-106" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-4566.5" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="feCrvd7pG5GOB3gKW0TG-103" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Переменные из аргументов:&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;x0, &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;x_last, &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;h, &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;y0, f, &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;eps, &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;log&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="-4839" y="430" width="590" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="feCrvd7pG5GOB3gKW0TG-104" value="Модифицированный метод эйлера" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-4614.5" y="220" width="134.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="feCrvd7pG5GOB3gKW0TG-106" target="6L-GOtwBly8vnvLlb4fh-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="feCrvd7pG5GOB3gKW0TG-106" value="true" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=40;" parent="1" vertex="1">
+          <mxGeometry x="-4679.4" y="530" width="200" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-1" target="6L-GOtwBly8vnvLlb4fh-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-1" target="6L-GOtwBly8vnvLlb4fh-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-1" value="x &amp;lt; x_last" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=40;" vertex="1" parent="1">
+          <mxGeometry x="-4680.94" y="662.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-3" target="6L-GOtwBly8vnvLlb4fh-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-3" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;x = x0, y = y0&lt;/pre&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-4668.439999999999" y="610" width="175" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-7" target="6L-GOtwBly8vnvLlb4fh-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-7" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt; k1 = f.getFunction().apply(x, y)&lt;/pre&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;k2 = f.getFunction().apply(x + h, y + h * k1)&lt;/pre&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;y += (h/&lt;span style=&quot;color:#2aacb8;&quot;&gt;2&lt;/span&gt;) * (k1 + k2);&lt;br&gt;x += h;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-4751.42" y="720" width="340.96" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-9" target="6L-GOtwBly8vnvLlb4fh-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-9" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;x - xValues.get(xValues.size() - &lt;span style=&quot;color:#2aacb8;&quot;&gt;1&lt;/span&gt;) == h1&lt;/pre&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4785.05" y="850" width="411.31" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-11" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;yValues.add(y);&lt;br&gt;xValues.add(x);&lt;/pre&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-4683.59" y="970" width="203.59" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-9" target="6L-GOtwBly8vnvLlb4fh-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-4650" y="900" as="sourcePoint" />
+            <mxPoint x="-4600" y="850" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-4790" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-15" target="6L-GOtwBly8vnvLlb4fh-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-15" target="6L-GOtwBly8vnvLlb4fh-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-3878" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-15" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;itFactor &amp;gt;= &lt;span style=&quot;color:#2aacb8;&quot;&gt;8192 &lt;/span&gt;||&lt;/pre&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt; yPrev != &lt;span style=&quot;white-space: normal; color: rgb(207, 142, 109);&quot;&gt;null &lt;/span&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&amp;amp;&amp;amp;&amp;nbsp;&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;Math.&lt;/span&gt;&lt;span style=&quot;white-space: normal; font-style: italic;&quot;&gt;abs&lt;/span&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;(y - yPrev) &amp;lt;= eps * (Math.&lt;/span&gt;&lt;span style=&quot;white-space: normal; font-style: italic;&quot;&gt;pow&lt;/span&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;white-space: normal; color: rgb(42, 172, 184);&quot;&gt;2&lt;/span&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;white-space: normal; color: rgb(42, 172, 184);&quot;&gt;4&lt;/span&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;) - &lt;/span&gt;&lt;span style=&quot;white-space: normal; color: rgb(42, 172, 184);&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;)&amp;nbsp;&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4450" y="602.5" width="560" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-16" target="6L-GOtwBly8vnvLlb4fh-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-16" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;return yValues&lt;/pre&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-4271.79" y="790" width="203.59" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-18" value="конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4230" y="860" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-20" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;xValues = &lt;span style=&quot;color:#cf8e6d;&quot;&gt;new &lt;/span&gt;ArrayList&amp;lt;&amp;gt;(Arrays.&lt;span style=&quot;font-style:italic;&quot;&gt;asList&lt;/span&gt;(x0));&lt;br&gt;yValues = &lt;span style=&quot;color:#cf8e6d;&quot;&gt;new &lt;/span&gt;ArrayList&amp;lt;&amp;gt;(Arrays.&lt;span style=&quot;font-style:italic;&quot;&gt;asList&lt;/span&gt;(y0));&lt;/pre&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;yPrev = y;&lt;br&gt;h = h / &lt;span style=&quot;color:#2aacb8;&quot;&gt;2&lt;/span&gt;;&lt;br&gt;itFactor *= &lt;span style=&quot;color:#2aacb8;&quot;&gt;2&lt;/span&gt;;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-4050" y="747.5" width="370" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.605;exitY=0.022;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-20" target="feCrvd7pG5GOB3gKW0TG-106">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-4810" y="1010" as="sourcePoint" />
+            <mxPoint x="-4760" y="960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-3840" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-24" target="6L-GOtwBly8vnvLlb4fh-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-24" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Начало&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3391" y="262.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-26" target="6L-GOtwBly8vnvLlb4fh-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3347.5" y="462.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-26" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Переменные из аргументов:&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;x0, &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;x_last, &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;h, &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;y0, f, &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;eps, &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;log&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-3620" y="372.5" width="590" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-27" value="Метод Рунге&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3395.5" y="162.5" width="134.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-29" target="6L-GOtwBly8vnvLlb4fh-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-29" value="true" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=40;" vertex="1" parent="1">
+          <mxGeometry x="-3460.3999999999996" y="472.5" width="200" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-32" target="6L-GOtwBly8vnvLlb4fh-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-32" target="6L-GOtwBly8vnvLlb4fh-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-32" value="x &amp;lt; x_last" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=40;" vertex="1" parent="1">
+          <mxGeometry x="-3461.9399999999996" y="605" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-34" target="6L-GOtwBly8vnvLlb4fh-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-34" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;x = x0, y = y0&lt;/pre&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-3449.4399999999987" y="552.5" width="175" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-36" target="6L-GOtwBly8vnvLlb4fh-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-36" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;span style=&quot;color:#cf8e6d;&quot;&gt;var &lt;/span&gt;k1 = h * f.getFunction().apply(x, y);&lt;br&gt;&lt;span style=&quot;color:#cf8e6d;&quot;&gt;var &lt;/span&gt;k2 = h * f.getFunction().apply(x + &lt;span style=&quot;color:#2aacb8;&quot;&gt;0.5 &lt;/span&gt;* h, y + &lt;span style=&quot;color:#2aacb8;&quot;&gt;0.5 &lt;/span&gt;* k1);&lt;br&gt;&lt;span style=&quot;color:#cf8e6d;&quot;&gt;var &lt;/span&gt;k3 = h * f.getFunction().apply(x + &lt;span style=&quot;color:#2aacb8;&quot;&gt;0.5 &lt;/span&gt;* h, y + &lt;span style=&quot;color:#2aacb8;&quot;&gt;0.5 &lt;/span&gt;* k2);&lt;br&gt;&lt;span style=&quot;color:#cf8e6d;&quot;&gt;var &lt;/span&gt;k4 = h * f.getFunction().apply(x + h, y + k3);&lt;br&gt;y += (k1 + &lt;span style=&quot;color:#2aacb8;&quot;&gt;2 &lt;/span&gt;* k2 + &lt;span style=&quot;color:#2aacb8;&quot;&gt;2 &lt;/span&gt;* k3 + k4) / &lt;span style=&quot;color:#2aacb8;&quot;&gt;6&lt;/span&gt;;&lt;br&gt;x += h;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-3559.46" y="662.5" width="462.42" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-38" target="6L-GOtwBly8vnvLlb4fh-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-38" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;x - xValues.get(xValues.size() - &lt;span style=&quot;color:#2aacb8;&quot;&gt;1&lt;/span&gt;) == h1&lt;/pre&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3566.05" y="792.5" width="411.31" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-39" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;yValues.add(y);&lt;br&gt;xValues.add(x);&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-3464.59" y="912.5" width="203.59" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-38" target="6L-GOtwBly8vnvLlb4fh-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3431" y="842.5" as="sourcePoint" />
+            <mxPoint x="-3381" y="792.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-3571" y="622.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-43" target="6L-GOtwBly8vnvLlb4fh-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-43" target="6L-GOtwBly8vnvLlb4fh-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2659" y="642.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-43" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;itFactor &amp;gt;= &lt;span style=&quot;color:#2aacb8;&quot;&gt;8192 &lt;/span&gt;||&lt;/pre&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt; yPrev != &lt;span style=&quot;white-space: normal; color: rgb(207, 142, 109);&quot;&gt;null &lt;/span&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&amp;amp;&amp;amp;&amp;nbsp;&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;Math.&lt;/span&gt;&lt;span style=&quot;white-space: normal; font-style: italic;&quot;&gt;abs&lt;/span&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;(y - yPrev) &amp;lt;= eps * (Math.&lt;/span&gt;&lt;span style=&quot;white-space: normal; font-style: italic;&quot;&gt;pow&lt;/span&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;white-space: normal; color: rgb(42, 172, 184);&quot;&gt;2&lt;/span&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;white-space: normal; color: rgb(42, 172, 184);&quot;&gt;4&lt;/span&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;) - &lt;/span&gt;&lt;span style=&quot;white-space: normal; color: rgb(42, 172, 184);&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;)&amp;nbsp;&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3190" y="545" width="560" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-45" target="6L-GOtwBly8vnvLlb4fh-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-45" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;return yValues&lt;/pre&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-3052.79" y="732.5" width="203.59" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-46" value="конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3011" y="802.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-47" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;xValues = &lt;span style=&quot;color:#cf8e6d;&quot;&gt;new &lt;/span&gt;ArrayList&amp;lt;&amp;gt;(Arrays.&lt;span style=&quot;font-style:italic;&quot;&gt;asList&lt;/span&gt;(x0));&lt;br&gt;yValues = &lt;span style=&quot;color:#cf8e6d;&quot;&gt;new &lt;/span&gt;ArrayList&amp;lt;&amp;gt;(Arrays.&lt;span style=&quot;font-style:italic;&quot;&gt;asList&lt;/span&gt;(y0));&lt;/pre&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;yPrev = y;&lt;br&gt;h = h / &lt;span style=&quot;color:#2aacb8;&quot;&gt;2&lt;/span&gt;;&lt;br&gt;itFactor *= &lt;span style=&quot;color:#2aacb8;&quot;&gt;2&lt;/span&gt;;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-2831" y="690" width="370" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.605;exitY=0.022;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-47" target="6L-GOtwBly8vnvLlb4fh-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3591" y="952.5" as="sourcePoint" />
+            <mxPoint x="-3541" y="902.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-2621" y="522.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-50" target="6L-GOtwBly8vnvLlb4fh-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-50" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Начало&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2031" y="275" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-52" target="6L-GOtwBly8vnvLlb4fh-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1987.5" y="475" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-52" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Переменные из аргументов:&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;x0, &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;x_last, &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;h, &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;y0, f, &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;eps, &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;log&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-2260" y="385" width="590" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-53" value="Метод Адамса" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2035.5" y="175" width="134.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-55" target="6L-GOtwBly8vnvLlb4fh-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-55" value="true" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=40;" vertex="1" parent="1">
+          <mxGeometry x="-2100.3999999999996" y="485" width="200" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-58" target="6L-GOtwBly8vnvLlb4fh-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-58" target="6L-GOtwBly8vnvLlb4fh-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1830.0000000000005" y="637.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1710" y="638" />
+              <mxPoint x="-1710" y="560" />
+              <mxPoint x="-1457" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-58" value="i = 1; i &amp;lt; 4; i++" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=40;" vertex="1" parent="1">
+          <mxGeometry x="-2101.9399999999996" y="617.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-60" target="6L-GOtwBly8vnvLlb4fh-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-60" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;x = x0, y = y0&lt;/pre&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-2089.4399999999987" y="565" width="175" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-62" target="6L-GOtwBly8vnvLlb4fh-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-62" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;span style=&quot;color:#cf8e6d;&quot;&gt;var &lt;/span&gt;k1 = h * f.getFunction().apply(x, y);&lt;br&gt;&lt;span style=&quot;color:#cf8e6d;&quot;&gt;var &lt;/span&gt;k2 = h * f.getFunction().apply(x + &lt;span style=&quot;color:#2aacb8;&quot;&gt;0.5 &lt;/span&gt;* h, y + &lt;span style=&quot;color:#2aacb8;&quot;&gt;0.5 &lt;/span&gt;* k1);&lt;br&gt;&lt;span style=&quot;color:#cf8e6d;&quot;&gt;var &lt;/span&gt;k3 = h * f.getFunction().apply(x + &lt;span style=&quot;color:#2aacb8;&quot;&gt;0.5 &lt;/span&gt;* h, y + &lt;span style=&quot;color:#2aacb8;&quot;&gt;0.5 &lt;/span&gt;* k2);&lt;br&gt;&lt;span style=&quot;color:#cf8e6d;&quot;&gt;var &lt;/span&gt;k4 = h * f.getFunction().apply(x + h, y + k3);&lt;br&gt;y += (k1 + &lt;span style=&quot;color:#2aacb8;&quot;&gt;2 &lt;/span&gt;* k2 + &lt;span style=&quot;color:#2aacb8;&quot;&gt;2 &lt;/span&gt;* k3 + k4) / &lt;span style=&quot;color:#2aacb8;&quot;&gt;6&lt;/span&gt;;&lt;br&gt;x += h;&lt;br&gt;yValues.add(y);&lt;br&gt;xValues.add(x);&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-2199.46" y="675" width="449.46" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-64" target="6L-GOtwBly8vnvLlb4fh-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-64" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;x - x1 == h1&lt;/pre&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2206.05" y="830" width="411.31" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-65" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;resultValues.add(y);&lt;br&gt;&lt;span style=&quot;color:#cf8e6d;&quot;&gt;var &lt;/span&gt;realY = f.getTrueValue(x0, y0, x);&lt;br&gt;accuracy = Math.&lt;span style=&quot;font-style:italic;&quot;&gt;max&lt;/span&gt;(accuracy, Math.&lt;span style=&quot;font-style:italic;&quot;&gt;abs&lt;/span&gt;(y - realY));&lt;br&gt;x1 = x;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-2199.46" y="912.5" width="384.59" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-64" target="6L-GOtwBly8vnvLlb4fh-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2071" y="855" as="sourcePoint" />
+            <mxPoint x="-2021" y="805" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-2211" y="635" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-78" target="6L-GOtwBly8vnvLlb4fh-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-78" target="6L-GOtwBly8vnvLlb4fh-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1273.0000000000005" y="637.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-78" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;xValues.get(xValues.size()-&lt;span style=&quot;color:#2aacb8;&quot;&gt;1&lt;/span&gt;) &amp;lt; x_last&lt;/pre&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=40;" vertex="1" parent="1">
+          <mxGeometry x="-1610" y="610" width="305.06" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-80" target="6L-GOtwBly8vnvLlb4fh-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-80" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;span style=&quot;color:#cf8e6d;&quot;&gt;double &lt;/span&gt;prX =  xValues.get(xValues.size()-&lt;span style=&quot;color:#2aacb8;&quot;&gt;1&lt;/span&gt;);&lt;br&gt;&lt;span style=&quot;color:#cf8e6d;&quot;&gt;double &lt;/span&gt;prXX = xValues.get(xValues.size() - &lt;span style=&quot;color:#2aacb8;&quot;&gt;2&lt;/span&gt;);&lt;br&gt;&lt;span style=&quot;color:#cf8e6d;&quot;&gt;double &lt;/span&gt;prXXX = xValues.get(xValues.size() - &lt;span style=&quot;color:#2aacb8;&quot;&gt;3&lt;/span&gt;);&lt;br&gt;&lt;span style=&quot;color:#cf8e6d;&quot;&gt;double &lt;/span&gt;prXXXX = xValues.get(xValues.size() - &lt;span style=&quot;color:#2aacb8;&quot;&gt;4&lt;/span&gt;);&lt;br&gt;&lt;span style=&quot;color:#cf8e6d;&quot;&gt;double &lt;/span&gt;prY = yValues.get(yValues.size() - &lt;span style=&quot;color:#2aacb8;&quot;&gt;1&lt;/span&gt;);&lt;br&gt;&lt;span style=&quot;color:#cf8e6d;&quot;&gt;double &lt;/span&gt;prYY = yValues.get(yValues.size() - &lt;span style=&quot;color:#2aacb8;&quot;&gt;2&lt;/span&gt;);&lt;br&gt;&lt;span style=&quot;color:#cf8e6d;&quot;&gt;double &lt;/span&gt;prYYY = yValues.get(yValues.size() - &lt;span style=&quot;color:#2aacb8;&quot;&gt;3&lt;/span&gt;);&lt;br&gt;&lt;span style=&quot;color:#cf8e6d;&quot;&gt;double &lt;/span&gt;prYYYY = yValues.get(yValues.size() - &lt;span style=&quot;color:#2aacb8;&quot;&gt;4&lt;/span&gt;);&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color:#cf8e6d;&quot;&gt;double &lt;/span&gt;nextFVal = prY + h / &lt;span style=&quot;color:#2aacb8;&quot;&gt;24 &lt;/span&gt;* (&lt;br&gt;        &lt;span style=&quot;color:#2aacb8;&quot;&gt;55 &lt;/span&gt;* f.getFunction().apply(prX,prY) -&lt;br&gt;                &lt;span style=&quot;color:#2aacb8;&quot;&gt;59 &lt;/span&gt;* f.getFunction().apply(prXX,prYY) +&lt;br&gt;                &lt;span style=&quot;color:#2aacb8;&quot;&gt;37 &lt;/span&gt;* f.getFunction().apply(prXXX,prYYY) -&lt;br&gt;                &lt;span style=&quot;color:#2aacb8;&quot;&gt;9 &lt;/span&gt;* f.getFunction().apply(prXXXX,prYYYY));&lt;br&gt;y = prY + h / &lt;span style=&quot;color:#2aacb8;&quot;&gt;24 &lt;/span&gt;* (&lt;br&gt;        &lt;span style=&quot;color:#2aacb8;&quot;&gt;9 &lt;/span&gt;* f.getFunction().apply(x + h, nextFVal) +&lt;br&gt;                &lt;span style=&quot;color:#2aacb8;&quot;&gt;19 &lt;/span&gt;* f.getFunction().apply(prX,prY) -&lt;br&gt;                &lt;span style=&quot;color:#2aacb8;&quot;&gt;5 &lt;/span&gt;* f.getFunction().apply(prXX,prYY) +&lt;br&gt;                f.getFunction().apply(prXXX,prYYY));&lt;br&gt;x = x + h;&lt;br&gt;xValues.add(x);&lt;br&gt;yValues.add(y);&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-1700" y="675" width="507" height="335" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-82" target="6L-GOtwBly8vnvLlb4fh-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-82" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;x - x1 == h1&lt;/pre&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1716.2500000000002" y="1040" width="411.31" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-83" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;resultValues.add(y);&lt;br&gt;&lt;span style=&quot;color:#cf8e6d;&quot;&gt;var &lt;/span&gt;realY = f.getTrueValue(x0, y0, x);&lt;br&gt;accuracy = Math.&lt;span style=&quot;font-style:italic;&quot;&gt;max&lt;/span&gt;(accuracy, Math.&lt;span style=&quot;font-style:italic;&quot;&gt;abs&lt;/span&gt;(y - realY));&lt;br&gt;x1 = x;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-1680" y="1130" width="384.59" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-84" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-82" target="6L-GOtwBly8vnvLlb4fh-78">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1514" y="855" as="sourcePoint" />
+            <mxPoint x="-1464" y="805" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1720" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-88" target="6L-GOtwBly8vnvLlb4fh-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-88" target="6L-GOtwBly8vnvLlb4fh-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-669" y="619" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-88" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;accuracy &amp;lt;= eps || itFactor &amp;gt;= &lt;span style=&quot;color:#2aacb8;&quot;&gt;8192&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1116" y="585" width="310" height="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6L-GOtwBly8vnvLlb4fh-90" target="6L-GOtwBly8vnvLlb4fh-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-90" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;return yValues&lt;/pre&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-1062.79" y="750" width="203.59" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-91" value="конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1021" y="820" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6L-GOtwBly8vnvLlb4fh-92" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;xValues = &lt;span style=&quot;color:#cf8e6d;&quot;&gt;new &lt;/span&gt;ArrayList&amp;lt;&amp;gt;(List.&lt;span style=&quot;font-style:italic;&quot;&gt;of&lt;/span&gt;(x0));&lt;br&gt;yValues = &lt;span style=&quot;color:#cf8e6d;&quot;&gt;new &lt;/span&gt;ArrayList&amp;lt;&amp;gt;(List.&lt;span style=&quot;font-style:italic;&quot;&gt;of&lt;/span&gt;(y0));&lt;br&gt;resultValues = &lt;span style=&quot;color:#cf8e6d;&quot;&gt;new &lt;/span&gt;ArrayList&amp;lt;&amp;gt;(List.&lt;span style=&quot;font-style:italic;&quot;&gt;of&lt;/span&gt;(y0));&lt;/pre&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;h = h / &lt;span style=&quot;color:#2aacb8;&quot;&gt;2&lt;/span&gt;;&lt;br&gt;itFactor *= &lt;span style=&quot;color:#2aacb8;&quot;&gt;2&lt;/span&gt;;&lt;br&gt;accuracy = -&lt;span style=&quot;color:#2aacb8;&quot;&gt;1.0&lt;/span&gt;;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-841" y="707.5" width="370" height="112.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
